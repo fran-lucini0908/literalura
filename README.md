@@ -19,7 +19,7 @@ Projeto de uma aplicação desenvolvida com **Spring Boot** que roda via **termi
 # 🛠️ Como executar
 1. 📥 Clone o repositório
    ```bash
-   git clone git@github.com:mpbmarcio/challenge-literalura.git
+   git clone git@github.com:fran-lucini0908/literalura.git
    cd literalura
    mvn spring-boot:run
    ```
